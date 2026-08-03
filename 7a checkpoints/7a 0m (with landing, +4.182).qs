@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "createdUtc": "2026-08-03T11:02:38.6365286Z",
+  "start": {
+    "areaSid": "Celeste/7-Summit",
+    "areaMode": "Normal",
+    "level": "a-00-intro",
+    "respawnX": -32,
+    "respawnY": 96
+  },
+  "inputs": [
+    "243",
+    "7,S",
+    "50",
+    "5,S",
+    "3",
+    "13,S",
+    "23",
+    "6,S",
+    "2",
+    "14,S",
+    "56",
+    "2,S"
+  ],
+  "sessionXml": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Session xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" Level=\"a-00-intro\" Time=\"0\" StartedFromBeginning=\"true\" Deaths=\"0\" Dashes=\"0\" DashesAtLevelStart=\"0\" DeathsInCurrentLevel=\"0\" InArea=\"true\" FirstLevel=\"true\" Cassette=\"false\" HeartGem=\"false\" Dreaming=\"false\" LightingAlphaAdd=\"0\" BloomBaseAdd=\"0\" DarkRoomAlpha=\"0.75\" CoreMode=\"None\" GrabbedGolden=\"false\" HitCheckpoint=\"false\">\r\n  <Area ID=\"7\" Mode=\"Normal\" SID=\"Celeste/7-Summit\" />\r\n  <RespawnPoint>\r\n    <X>-32</X>\r\n    <Y>96</Y>\r\n  </RespawnPoint>\r\n  <Audio>\r\n    <Music Event=\"event:/music/lvl7/main\">\r\n      <Parameters>\r\n        <MEP Key=\"layer1\" Value=\"1\" />\r\n        <MEP Key=\"layer2\" Value=\"1\" />\r\n        <MEP Key=\"layer3\" Value=\"1\" />\r\n        <MEP Key=\"layer4\" Value=\"1\" />\r\n        <MEP Key=\"layer6\" Value=\"0\" />\r\n      </Parameters>\r\n    </Music>\r\n    <Ambience>\r\n      <Parameters />\r\n    </Ambience>\r\n    <AmbienceVolume xsi:nil=\"true\" />\r\n  </Audio>\r\n  <Inventory>\r\n    <Dashes>2</Dashes>\r\n    <DreamDash>true</DreamDash>\r\n    <Backpack>false</Backpack>\r\n    <NoRefills>false</NoRefills>\r\n  </Inventory>\r\n  <Flags />\r\n  <LevelFlags>\r\n    <string>a-00-intro</string>\r\n  </LevelFlags>\r\n  <Strawberries />\r\n  <DoNotLoad />\r\n  <Keys />\r\n  <Counters />\r\n  <SummitGems>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n  </SummitGems>\r\n  <OldStats ID=\"7\" Cassette=\"true\" SID=\"Celeste/7-Summit\">\r\n    <Modes>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"true\" SingleRunCompleted=\"false\" FullClear=\"false\" Deaths=\"448\" TimePlayed=\"57612490000\" BestTime=\"0\" BestFullClearTime=\"0\" BestDashes=\"0\" BestDeaths=\"0\" HeartGem=\"true\">\r\n        <Strawberries />\r\n        <Checkpoints>\r\n          <string>b-00</string>\r\n          <string>c-00</string>\r\n          <string>d-00</string>\r\n          <string>e-00b</string>\r\n          <string>f-00</string>\r\n          <string>g-00</string>\r\n        </Checkpoints>\r\n      </AreaModeStats>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"false\" SingleRunCompleted=\"false\" FullClear=\"false\" Deaths=\"208\" TimePlayed=\"61265110000\" BestTime=\"0\" BestFullClearTime=\"0\" BestDashes=\"0\" BestDeaths=\"0\" HeartGem=\"false\">\r\n        <Strawberries />\r\n        <Checkpoints>\r\n          <string>b-00</string>\r\n          <string>c-01</string>\r\n          <string>d-00</string>\r\n          <string>e-00</string>\r\n          <string>f-00</string>\r\n          <string>g-00</string>\r\n        </Checkpoints>\r\n      </AreaModeStats>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"false\" SingleRunCompleted=\"false\" FullClear=\"false\" Deaths=\"0\" TimePlayed=\"0\" BestTime=\"0\" BestFullClearTime=\"0\" BestDashes=\"0\" BestDeaths=\"0\" HeartGem=\"false\">\r\n        <Strawberries />\r\n        <Checkpoints />\r\n      </AreaModeStats>\r\n    </Modes>\r\n  </OldStats>\r\n  <UnlockedCSide>false</UnlockedCSide>\r\n  <FurthestSeenLevel>a-00-intro</FurthestSeenLevel>\r\n  <BeatBestTime>false</BeatBestTime>\r\n  <RestartedFromGolden>false</RestartedFromGolden>\r\n  <Sliders />\r\n</Session>"
+}
