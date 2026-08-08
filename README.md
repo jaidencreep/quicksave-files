@@ -1,7 +1,7 @@
 # Quicksave Files Repository
 
-This repository houses quicksave files to be used with [Quicksave Mod](https://github.com/caeyo/QuicksaveMod).
+This repository houses quicksave files to be used with [Quick Tools](https://github.com/caeyo/QuickTools).
 
 ## Contributing
 
-Use `_export.py` to clean quicksave files. Submit your quicksave files by creating an issue, vanilla and modded Celeste maps are welcome!
+Submit your quicksave files by creating an issue, vanilla and modded Celeste maps are welcome!

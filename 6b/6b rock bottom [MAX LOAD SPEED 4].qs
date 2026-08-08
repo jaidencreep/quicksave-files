@@ -1,0 +1,40 @@
+{
+  "version": 3,
+  "createdUtc": "2026-08-08T12:49:34.3027423Z",
+  "start": {
+    "areaSid": "Celeste/6-Reflection",
+    "areaMode": "BSide",
+    "level": "b-10",
+    "respawnX": 6656,
+    "respawnY": 4480
+  },
+  "inputs": [
+    "36",
+    "11,R,Z",
+    "2,R",
+    "11,R,J",
+    "12,R",
+    "2,R,U",
+    "11,R,U,X",
+    "4,R,U",
+    "28,R",
+    "13,R,X",
+    "3,R",
+    "3,R,U",
+    "14,R,U,X",
+    "1,R,U",
+    "9,R",
+    "14,R,X",
+    "8,R",
+    "12,R,D",
+    "5,R",
+    "12,R,X",
+    "14,R",
+    "1,R,U",
+    "8,R,U,X",
+    "5,R,U",
+    "25,F,45,1",
+    "112,F,90,1"
+  ],
+  "sessionXml": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Session xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" Level=\"b-10\" Time=\"424320000\" StartedFromBeginning=\"false\" Deaths=\"16\" Dashes=\"12\" DashesAtLevelStart=\"12\" DeathsInCurrentLevel=\"14\" InArea=\"true\" FirstLevel=\"false\" Cassette=\"false\" HeartGem=\"false\" Dreaming=\"false\" ColorGrade=\"reflection\" LightingAlphaAdd=\"0\" BloomBaseAdd=\"0\" DarkRoomAlpha=\"0.75\" CoreMode=\"None\" GrabbedGolden=\"false\" HitCheckpoint=\"false\">\r\n  <Area ID=\"6\" Mode=\"BSide\" SID=\"Celeste/6-Reflection\" />\r\n  <RespawnPoint>\r\n    <X>6656</X>\r\n    <Y>4480</Y>\r\n  </RespawnPoint>\r\n  <Audio>\r\n    <Music Event=\"event:/music/remix/06_reflection\">\r\n      <Parameters>\r\n        <MEP Key=\"layer1\" Value=\"0\" />\r\n        <MEP Key=\"layer2\" Value=\"0\" />\r\n        <MEP Key=\"layer3\" Value=\"1\" />\r\n        <MEP Key=\"layer4\" Value=\"1\" />\r\n        <MEP Key=\"layer6\" Value=\"0\" />\r\n      </Parameters>\r\n    </Music>\r\n    <Ambience Event=\"event:/env/amb/06_main\">\r\n      <Parameters />\r\n    </Ambience>\r\n    <AmbienceVolume xsi:nil=\"true\" />\r\n  </Audio>\r\n  <Inventory>\r\n    <Dashes>1</Dashes>\r\n    <DreamDash>true</DreamDash>\r\n    <Backpack>true</Backpack>\r\n    <NoRefills>false</NoRefills>\r\n  </Inventory>\r\n  <Flags>\r\n    <string>StopFastRestartFlag</string>\r\n    <string>SpeedrunTool_SavedSate</string>\r\n  </Flags>\r\n  <LevelFlags>\r\n    <string>b-10</string>\r\n    <string>c-00</string>\r\n  </LevelFlags>\r\n  <Strawberries />\r\n  <DoNotLoad />\r\n  <Keys />\r\n  <Counters />\r\n  <SummitGems>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n  </SummitGems>\r\n  <OldStats ID=\"6\" Cassette=\"false\" SID=\"Celeste/6-Reflection\">\r\n    <Modes>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"false\" SingleRunCompleted=\"false\" FullClear=\"false\" Deaths=\"2\" TimePlayed=\"3842340000\" BestTime=\"0\" BestFullClearTime=\"0\" BestDashes=\"0\" BestDeaths=\"0\" HeartGem=\"false\">\r\n        <Strawberries />\r\n        <Checkpoints>\r\n          <string>00</string>\r\n          <string>04</string>\r\n          <string>b-00</string>\r\n          <string>boss-00</string>\r\n          <string>after-00</string>\r\n        </Checkpoints>\r\n      </AreaModeStats>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"true\" SingleRunCompleted=\"true\" FullClear=\"false\" Deaths=\"423\" TimePlayed=\"57139720000\" BestTime=\"2787150000\" BestFullClearTime=\"0\" BestDashes=\"236\" BestDeaths=\"6\" HeartGem=\"true\">\r\n        <Strawberries />\r\n        <Checkpoints>\r\n          <string>b-00</string>\r\n          <string>c-00</string>\r\n          <string>d-00</string>\r\n        </Checkpoints>\r\n      </AreaModeStats>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"false\" SingleRunCompleted=\"false\" FullClear=\"false\" Deaths=\"0\" TimePlayed=\"0\" BestTime=\"0\" BestFullClearTime=\"0\" BestDashes=\"0\" BestDeaths=\"0\" HeartGem=\"false\">\r\n        <Strawberries />\r\n        <Checkpoints />\r\n      </AreaModeStats>\r\n    </Modes>\r\n  </OldStats>\r\n  <UnlockedCSide>false</UnlockedCSide>\r\n  <FurthestSeenLevel>c-00</FurthestSeenLevel>\r\n  <BeatBestTime>false</BeatBestTime>\r\n  <RestartedFromGolden>false</RestartedFromGolden>\r\n  <Sliders />\r\n</Session>"
+}
