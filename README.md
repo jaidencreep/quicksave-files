@@ -1,6 +1,6 @@
 # Quicksave Files Repository
 
-This repository houses quicksave files to be used with [Quick Tools](https://github.com/caeyo/QuickTools).
+This repository houses quicksave files to be used with [QuickTools](https://github.com/caeyo/QuickTools).
 
 ## Contributing
 
