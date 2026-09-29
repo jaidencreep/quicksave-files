@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "createdUtc": "2026-09-03T22:21:29.4018746Z",
+  "start": {
+    "areaSid": "Celeste/5-MirrorTemple",
+    "areaMode": "Normal",
+    "level": "e-04",
+    "respawnX": 4760,
+    "respawnY": 1344
+  },
+  "inputs": [
+    "38",
+    "1,R,Z",
+    "4,R,J,Z,G",
+    "2,R,Z,G",
+    "21,R,G",
+    "9,R,J,G",
+    "12,R,G",
+    "12,G",
+    "2,R,G",
+    "3,R",
+    "2,R,Z",
+    "6,R,J,Z,G",
+    "21,R,J,G",
+    "2,R,G",
+    "10,G",
+    "11,J,G",
+    "1,R,J,G",
+    "1,R,J",
+    "9,R,J,X",
+    "3,R,X",
+    "2,R",
+    "12,R,J",
+    "12,U,J,X",
+    "2,J,X",
+    "3,J",
+    "36,D",
+    "20,D,X",
+    "6,D",
+    "6"
+  ],
+  "sessionXml": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Session xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" Level=\"e-04\" Time=\"157930000\" StartedFromBeginning=\"false\" Deaths=\"4\" Dashes=\"0\" DashesAtLevelStart=\"0\" DeathsInCurrentLevel=\"4\" InArea=\"true\" FirstLevel=\"false\" Cassette=\"false\" HeartGem=\"false\" Dreaming=\"false\" LightingAlphaAdd=\"0\" BloomBaseAdd=\"0\" DarkRoomAlpha=\"0.75\" CoreMode=\"None\" GrabbedGolden=\"false\" HitCheckpoint=\"false\">\r\n  <Area ID=\"5\" Mode=\"Normal\" SID=\"Celeste/5-MirrorTemple\" />\r\n  <RespawnPoint>\r\n    <X>4760</X>\r\n    <Y>1344</Y>\r\n  </RespawnPoint>\r\n  <Audio>\r\n    <Music Event=\"event:/music/lvl5/mirror\">\r\n      <Parameters>\r\n        <MEP Key=\"layer1\" Value=\"1\" />\r\n        <MEP Key=\"layer2\" Value=\"0\" />\r\n        <MEP Key=\"layer3\" Value=\"1\" />\r\n        <MEP Key=\"layer4\" Value=\"0\" />\r\n        <MEP Key=\"layer6\" Value=\"1\" />\r\n        <MEP Key=\"layer5\" Value=\"0.33736312\" />\r\n      </Parameters>\r\n    </Music>\r\n    <Ambience Event=\"event:/env/amb/05_interior_main\">\r\n      <Parameters />\r\n    </Ambience>\r\n    <AmbienceVolume xsi:nil=\"true\" />\r\n  </Audio>\r\n  <Inventory>\r\n    <Dashes>1</Dashes>\r\n    <DreamDash>true</DreamDash>\r\n    <Backpack>true</Backpack>\r\n    <NoRefills>false</NoRefills>\r\n  </Inventory>\r\n  <Flags />\r\n  <LevelFlags>\r\n    <string>e-04</string>\r\n  </LevelFlags>\r\n  <Strawberries />\r\n  <DoNotLoad />\r\n  <Keys />\r\n  <Counters />\r\n  <SummitGems>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n    <boolean>false</boolean>\r\n  </SummitGems>\r\n  <OldStats ID=\"5\" Cassette=\"false\" SID=\"Celeste/5-MirrorTemple\">\r\n    <Modes>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"true\" SingleRunCompleted=\"true\" FullClear=\"false\" Deaths=\"308\" TimePlayed=\"60433300000\" BestTime=\"5424190000\" BestFullClearTime=\"0\" BestDashes=\"544\" BestDeaths=\"9\" HeartGem=\"true\">\r\n        <Strawberries />\r\n        <Checkpoints>\r\n          <string>b-00</string>\r\n          <string>c-00</string>\r\n          <string>d-00</string>\r\n          <string>e-00</string>\r\n        </Checkpoints>\r\n      </AreaModeStats>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"false\" SingleRunCompleted=\"false\" FullClear=\"false\" Deaths=\"313\" TimePlayed=\"13163270000\" BestTime=\"0\" BestFullClearTime=\"0\" BestDashes=\"0\" BestDeaths=\"0\" HeartGem=\"true\">\r\n        <Strawberries />\r\n        <Checkpoints>\r\n          <string>b-00</string>\r\n          <string>c-00</string>\r\n          <string>d-00</string>\r\n        </Checkpoints>\r\n      </AreaModeStats>\r\n      <AreaModeStats TotalStrawberries=\"0\" Completed=\"false\" SingleRunCompleted=\"false\" FullClear=\"false\" Deaths=\"0\" TimePlayed=\"0\" BestTime=\"0\" BestFullClearTime=\"0\" BestDashes=\"0\" BestDeaths=\"0\" HeartGem=\"false\">\r\n        <Strawberries />\r\n        <Checkpoints />\r\n      </AreaModeStats>\r\n    </Modes>\r\n  </OldStats>\r\n  <UnlockedCSide>false</UnlockedCSide>\r\n  <FurthestSeenLevel>e-04</FurthestSeenLevel>\r\n  <BeatBestTime>false</BeatBestTime>\r\n  <RestartedFromGolden>false</RestartedFromGolden>\r\n  <Sliders />\r\n</Session>"
+}
